@@ -1,11 +1,8 @@
-
 // Main content component
-const Main = () => {
+export default function Main() {
   return (
-    <main className="main">
-      <h1>Momo's Page</h1>
+    <main>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni ex, maxime praesentium cumque veniam tempore harum odit perferendis facere accusamus.</p>
     </main>
   );
 }
-
-export default Main;

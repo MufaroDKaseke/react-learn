@@ -1,9 +1,8 @@
-
-// Footer Component
+// Footer component
 export default function Footer() {
   return (
     <footer>
-      <p className="text-end">My Footer</p>
+      <p className="text-end">Footer text</p>
     </footer>
-  )
+  );
 }
